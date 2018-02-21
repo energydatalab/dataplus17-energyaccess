@@ -1,0 +1,13 @@
+# US Power Plants Data
+
+  Due to size restrictions we have only the geojson metadata in this repository. For the COMPLETE NAIP/Landsat imagery & annotations, please check either
+
+  VM (1 - raw data; 2 - processed dataset):
+    1. Z:\data\energyaccess\US_Power_Plants_RAW_NAIP.tar
+       Z:\data\energyaccess\US_Power_Plants_RAW_LS8.tar
+    2. Z:\data\energyaccess\dataplus2017\USPowerPlantDataset\USPowerPlantDataset_DATA\
+
+or
+
+  GPU (dataset only): /home/hyperion/dataplus/dataplus2017/USPowerPlantDataset/USPowerPlantDataset_DATA/
+
